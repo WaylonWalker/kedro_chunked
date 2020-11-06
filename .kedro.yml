@@ -1,0 +1,6 @@
+context_path: kedro_chunked.run.ProjectContext
+project_name: "Kedro Chunked"
+project_version: "0.16.6"
+package_name: "kedro_chunked"
+hooks:
+  - kedro_chunked.hooks.project_hooks
